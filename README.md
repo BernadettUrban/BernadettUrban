@@ -4,7 +4,7 @@ I'm a fresh alumni of Green Fox Academy. I'm specializing in back-end and this i
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/bernadetturban/)
 - 🌱 I’m currently preparing for interviews : 
-  - [Codewars](https://www.codewars.com/users/{BernadettUrban)
+  - [Codewars](https://www.codewars.com/users/BernadettUrban)
   - [Hackerrank](https://www.hackerrank.com/bernadett_urban)
 
   
