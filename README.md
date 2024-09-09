@@ -7,6 +7,7 @@ I'm a fresh alumni of Green Fox Academy. I'm specializing in back-end and this i
   - [Codewars](https://www.codewars.com/users/BernadettUrban)
   - [Hackerrank](https://www.hackerrank.com/bernadett_urban)
 
+  -[OITM](https://app.megmerettetes.hu/adatlap/f01b8351-33be-4585-9dc8-d0d0b47d748e)
   
 <!--
 **BernadettUrban/BernadettUrban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
